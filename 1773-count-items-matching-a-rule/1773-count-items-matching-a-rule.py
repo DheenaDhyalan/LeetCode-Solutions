@@ -1,6 +1,6 @@
 class Solution:
     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
-        res = 0
+        count = 0
 
         if ruleKey == "type":
             index = 0
@@ -11,6 +11,6 @@ class Solution:
 
         for item in items:
             if item[index] == ruleValue:
-                res += 1
+                count += 1
 
-        return res
+        return count
