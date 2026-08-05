@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1773-count-items-matching-a-rule](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
