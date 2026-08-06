@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1773-count-items-matching-a-rule](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2574-left-and-right-sum-differences](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
