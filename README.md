@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Simulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
