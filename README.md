@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2652-sum-multiples](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
