@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
