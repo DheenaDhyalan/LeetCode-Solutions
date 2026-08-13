@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
