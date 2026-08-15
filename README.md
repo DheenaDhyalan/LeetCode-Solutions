@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DheenaDhyalan/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
